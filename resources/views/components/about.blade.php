@@ -70,88 +70,9 @@
                 </div>
                 <div class="col-sm-6 col-lg-3">
                     <div class="hover-team">
-                        <div class="our-team"> <img src="images/team/sohag2.jpg" alt="" />
+                        <div class="our-team"> <img src="images/team/saiful.jpg" alt="" />
                             <div class="team-content">
-                                <h3 class="title">আবুল কাইয়ুম সোহাগ</h3> <span class="post">সমন্বয়ক</span> </div>
-                            <ul class="social">
-                                <li>
-                                    <a href="https://web.facebook.com/profile.php?id=100024635169563" target="_blank" class="fab fa-facebook"></a>
-                                </li>
-                                <li>
-                                    <a href="#" class="fab fa-twitter"></a>
-                                </li>
-                                <li>
-                                    <a href="#" class="fab fa-google-plus"></a>
-                                </li>
-                                <li>
-                                    <a href="#" class="fab fa-youtube"></a>
-                                </li>
-                            </ul>
-                            <div class="icon"> <i class="fa fa-plus" aria-hidden="true"></i> </div>
-                        </div>
-                        <div class="team-description">
-                            <p>পশ্চিম বিজয় সিংহ আল-ফোরকান পাঠাগারের একজন নিয়মিত সদস্য। </p>
-                        </div>
-                        <hr class="my-0"> </div>
-                </div>
-                <div class="col-sm-6 col-lg-3">
-                    <div class="hover-team">
-                        <div class="our-team"> <img src="images/team/saju2.jpg" alt="" />
-                            <div class="team-content">
-                                <h3 class="title">তাজুল ইসলাম সাজু</h3> <span class="post">সমন্বয়ক</span> </div>
-                            <ul class="social">
-                                <li>
-                                    <a href="https://web.facebook.com/saju.mizza/" target="_blank" class="fab fa-facebook"></a>
-                                </li>
-                                <li>
-                                    <a href="#" class="fab fa-twitter"></a>
-                                </li>
-                                <li>
-                                    <a href="#" class="fab fa-google-plus"></a>
-                                </li>
-                                <li>
-                                    <a href="#" class="fab fa-youtube"></a>
-                                </li>
-                            </ul>
-                            <div class="icon"> <i class="fa fa-plus" aria-hidden="true"></i> </div>
-                        </div>
-                        <div class="team-description">
-                            <p>পশ্চিম বিজয় সিংহ আল-ফোরকান পাঠাগারের একজন নিয়মিত সদস্য। </p>
-                        </div>
-
-                        <hr class="my-0"> </div>
-                </div>
-                <div class="col-sm-6 col-lg-3">
-                    <div class="hover-team">
-                        <div class="our-team"> <img src="images/team/sakil2.jpg" alt="" />
-                            <div class="team-content">
-                                <h3 class="title">মোহাম্মদ শাকিল</h3> <span class="post">সমন্বয়ক</span> </div>
-                            <ul class="social">
-                                <li>
-                                    <a href="https://web.facebook.com/profile.php?id=100050572847853" target="_blank" class="fab fa-facebook"></a>
-                                </li>
-                                <li>
-                                    <a href="#" class="fab fa-twitter"></a>
-                                </li>
-                                <li>
-                                    <a href="#" class="fab fa-google-plus"></a>
-                                </li>
-                                <li>
-                                    <a href="#" class="fab fa-youtube"></a>
-                                </li>
-                            </ul>
-                            <div class="icon"> <i class="fa fa-plus" aria-hidden="true"></i> </div>
-                        </div>
-                        <div class="team-description">
-                            <p>পশ্চিম বিজয় সিংহ আল-ফোরকান পাঠাগারের একজন নিয়মিত সদস্য।</p>
-                        </div>
-                        <hr class="my-0"> </div>
-                </div>
-                <div class="col-sm-6 col-lg-3">
-                    <div class="hover-team">
-                        <div class="our-team"> <img src="images/team/risat2.jpg" alt="" />
-                            <div class="team-content">
-                                <h3 class="title">শেখ রাসেল</h3> <span class="post">সমন্বয়ক</span> </div>
+                                <h3 class="title">সাইফুল ইসলাম</h3> <span class="post">সভাপতি</span> </div>
                             <ul class="social">
                                 <li>
                                     <a href="https://web.facebook.com/profile.php?id=100058281325819" target="_blank" class="fab fa-facebook"></a>
@@ -169,10 +90,204 @@
                             <div class="icon"> <i class="fa fa-plus" aria-hidden="true"></i> </div>
                         </div>
                         <div class="team-description">
-                            <p>পশ্চিম বিজয় সিংহ আল-ফোরকান পাঠাগারের একজন নিয়মিত সদস্য।</p>
+                            <span style="font-size: 20px; color: black; font-weight: bold">সভাপতি</span>
+                            <p style="font-size: 12px">পশ্চিম বিজয় সিংহ আল-ফোরকান পাঠাগার</p>
                         </div>
                         <hr class="my-0"> </div>
                 </div>
+                <div class="col-sm-6 col-lg-3">
+                    <div class="hover-team">
+                        <div class="our-team"> <img src="images/team/roni1.jpg" alt="" />
+                            <div class="team-content">
+                                <h3 class="title" style="color:rgb(0, 0, 0) ">জাফরুল ইসলাম রনি</h3> <span class="post">সেক্রেটারি</span> </div>
+                            <ul class="social">
+                                <li>
+                                    <a href="https://web.facebook.com/profile.php?id=100058281325819" target="_blank" class="fab fa-facebook"></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="fab fa-twitter"></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="fab fa-google-plus"></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="fab fa-youtube"></a>
+                                </li>
+                            </ul>
+                            <div class="icon"> <i class="fa fa-plus" aria-hidden="true"></i> </div>
+                        </div>
+                        <div class="team-description">
+                            <span style="font-size: 20px; color: black; font-weight: bold">সেক্রেটারি</span>
+                            <p style="font-size: 12px">পশ্চিম বিজয় সিংহ আল-ফোরকান পাঠাগার</p>
+                        </div>
+                        <hr class="my-0"> </div>
+                </div>
+                <div class="col-sm-6 col-lg-3">
+                    <div class="hover-team">
+                        <div class="our-team"> <img src="images/team/mosarrof.jpg" alt="" />
+                            <div class="team-content">
+                                <h3 class="title">মোশারফ হোসাইন</h3> <span class="post">সহ - সেক্রেটারি</span> </div>
+                            <ul class="social">
+                                <li>
+                                    <a href="https://web.facebook.com/profile.php?id=100058281325819" target="_blank" class="fab fa-facebook"></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="fab fa-twitter"></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="fab fa-google-plus"></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="fab fa-youtube"></a>
+                                </li>
+                            </ul>
+                            <div class="icon"> <i class="fa fa-plus" aria-hidden="true"></i> </div>
+                        </div>
+                        <div class="team-description">
+                            <span style="font-size: 20px; color: black; font-weight: bold">সহ-সেক্রেটারি</span>
+                            <p style="font-size: 12px">পশ্চিম বিজয় সিংহ আল-ফোরকান পাঠাগার</p>
+                        </div>
+                        <hr class="my-0"> </div>
+                </div>
+                <div class="col-sm-6 col-lg-3">
+                    <div class="hover-team">
+                        <div class="our-team"> <img src="images/team/risat2.jpg" alt="" />
+                            <div class="team-content">
+                                <h3 class="title">শেখ রাসেল</h3> <span class="post">অর্থ সম্পাদক</span> </div>
+                            <ul class="social">
+                                <li>
+                                    <a href="https://web.facebook.com/profile.php?id=100058281325819" target="_blank" class="fab fa-facebook"></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="fab fa-twitter"></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="fab fa-google-plus"></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="fab fa-youtube"></a>
+                                </li>
+                            </ul>
+                            <div class="icon"> <i class="fa fa-plus" aria-hidden="true"></i> </div>
+                        </div>
+                        <div class="team-description">
+                            <span style="font-size: 20px; color: black; font-weight: bold">অর্থ সম্পাদক </span>
+                            <p style="font-size: 12px">পশ্চিম বিজয় সিংহ আল-ফোরকান পাঠাগার</p>
+                        </div>
+                        <hr class="my-0"> </div>
+                </div>
+                
+                <div class="col-sm-6 col-lg-3">
+                    <div class="hover-team">
+                        <div class="our-team"> <img src="images/team/saju4.jpg" alt="" />
+                            <div class="team-content">
+                                <h3 class="title">তাজুল ইসলাম সাজু</h3> <span class="post">অফিস সম্পাদক</span> </div>
+                            <ul class="social">
+                                <li>
+                                    <a href="https://web.facebook.com/saju.mizza/" target="_blank" class="fab fa-facebook"></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="fab fa-twitter"></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="fab fa-google-plus"></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="fab fa-youtube"></a>
+                                </li>
+                            </ul>
+                            <div class="icon"> <i class="fa fa-plus" aria-hidden="true"></i> </div>
+                        </div>
+                        <div class="team-description">
+                            <span style="font-size: 20px; color: black; font-weight: bold">অফিস সম্পাদক </span>
+                            <p style="font-size: 12px">পশ্চিম বিজয় সিংহ আল-ফোরকান পাঠাগার</p>
+                        </div>
+
+                        <hr class="my-0"> </div>
+                </div>
+                <div class="col-sm-6 col-lg-3">
+                    <div class="hover-team">
+                        <div class="our-team"> <img src="images/team/sakil2.jpg" alt="" />
+                            <div class="team-content">
+                                <h3 class="title">মোহাম্মদ শাকিল</h3> <span class="post">ক্রীড়া সম্পাদক </span> </div>
+                            <ul class="social">
+                                <li>
+                                    <a href="https://web.facebook.com/profile.php?id=100050572847853" target="_blank" class="fab fa-facebook"></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="fab fa-twitter"></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="fab fa-google-plus"></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="fab fa-youtube"></a>
+                                </li>
+                            </ul>
+                            <div class="icon"> <i class="fa fa-plus" aria-hidden="true"></i> </div>
+                        </div>
+                        <div class="team-description">
+                            <span style="font-size: 20px; color: black; font-weight: bold">ক্রীড়া সম্পাদক</span>
+                            <p style="font-size: 12px">পশ্চিম বিজয় সিংহ আল-ফোরকান পাঠাগার</p>
+                        </div>
+                        <hr class="my-0"> </div>
+                </div>
+                <div class="col-sm-6 col-lg-3">
+                    <div class="hover-team">
+                        <div class="our-team"> <img src="images/team/sohag2.jpg" alt="" />
+                            <div class="team-content">
+                                <h3 class="title">আবুল কাইয়ুম সোহাগ</h3> <span class="post">সদস্য</span> </div>
+                            <ul class="social">
+                                <li>
+                                    <a href="https://web.facebook.com/profile.php?id=100024635169563" target="_blank" class="fab fa-facebook"></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="fab fa-twitter"></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="fab fa-google-plus"></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="fab fa-youtube"></a>
+                                </li>
+                            </ul>
+                            <div class="icon"> <i class="fa fa-plus" aria-hidden="true"></i> </div>
+                        </div>
+                        <div class="team-description">
+                            <span style="font-size: 20px; color: black; font-weight: bold">সদস্য</span>
+                            <p style="font-size: 12px">পশ্চিম বিজয় সিংহ আল-ফোরকান পাঠাগার</p>
+                        </div>
+                        <hr class="my-0"> </div>
+                </div>
+                
+                <div class="col-sm-6 col-lg-3">
+                    <div class="hover-team">
+                        <div class="our-team"> <img src="images/team/pias.jpg" alt="" />
+                            <div class="team-content">
+                                <h3 class="title">রাশেদুল ইসলাম পিয়াস</h3> <span class="post">সদস্য</span> </div>
+                            <ul class="social">
+                                <li>
+                                    <a href="https://web.facebook.com/profile.php?id=100058281325819" target="_blank" class="fab fa-facebook"></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="fab fa-twitter"></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="fab fa-google-plus"></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="fab fa-youtube"></a>
+                                </li>
+                            </ul>
+                            <div class="icon"> <i class="fa fa-plus" aria-hidden="true"></i> </div>
+                        </div>
+                        <div class="team-description">
+                            <span style="font-size: 20px; color: black; font-weight: bold">সদস্য</span>
+                            <p style="font-size: 12px">পশ্চিম বিজয় সিংহ আল-ফোরকান পাঠাগার</p>
+                        </div>
+                        <hr class="my-0"> </div>
+                </div>
+               
             </div>
         </div>
     </div>
